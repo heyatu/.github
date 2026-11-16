@@ -7,7 +7,8 @@
 Your own AI, on your own computer.
 
 This repository holds the profile page of the Hey Atu organisation on GitHub.
-To read it, go to **[github.com/heyatu](https://github.com/heyatu)**.
+To read it, go to **[github.com/heyatu](https://github.com/heyatu)** or
+**[heyatu/heyatu](https://github.com/heyatu/heyatu)**.
 
 - Website: [heyatu.com](https://heyatu.com/?utm_source=github&utm_medium=repo&utm_campaign=dotgithub-readme)
 - Download for Mac: [heyatu.com/download/mac](https://heyatu.com/download/mac?utm_source=github&utm_medium=repo&utm_campaign=dotgithub-readme)
