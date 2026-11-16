@@ -61,10 +61,10 @@ In an independent test, [Composio](https://composio.dev/content/best-ai-agent-ha
 
 | Agent | Median time | Cost per task | Passed |
 |---|---:|---:|---:|
-| **Pi (Hey Atu)** | **156 s** | **$0.57** | 18 / 25 |
-| Codex | 233 s | $0.66 | 17 / 25 |
-| OpenCode | 271 s | $0.72 | 18 / 25 |
-| Claude Code | 331 s | $1.96 | 19 / 25 |
+| **Pi (Hey Atu)** | **156s** | **$0.57** | 18/25 |
+| Codex | 233s | $0.66 | 17/25 |
+| OpenCode | 271s | $0.72 | 18/25 |
+| Claude Code | 331s | $1.96 | 19/25 |
 
 <sub>Composio, August 2026. Cost is per finished task. One run per task; costs use the Kimi K3 list prices of that month. Results vary by model and task.</sub>
 
