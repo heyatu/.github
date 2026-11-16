@@ -30,6 +30,8 @@ Hey Atu is your own AI, on your own computer. It runs [Pi](https://github.com/ea
 
 <a href="https://heyatu.com/security?utm_source=github&utm_medium=readme&utm_campaign=how-it-works"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/how-it-works.svg" width="100%" alt="iPhone, iPad, the desktop app and the terminal connect through a relay to Pi on your own computer."></a>
 
+### On iPhone
+
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://heyatu.com/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-chat.png" width="100%" alt="Chats"></a><br><b><a href="https://heyatu.com/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat-link">Chats</a></b><br>Talk to Atu by voice or text. It remembers how you work, so you say things once.</td>
@@ -37,19 +39,54 @@ Hey Atu is your own AI, on your own computer. It runs [Pi](https://github.com/ea
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-updates.png" width="100%" alt="Updates"></a><br><b><a href="https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates-link">Updates</a></b><br>Scheduled tasks on your Mac: a morning brief, a price watch, a weekly digest. A card comes only when there is news.</td>
-<td width="50%" valign="top"><a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-days.png" width="100%" alt="Days"></a><br><b><a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days-link">Days</a></b><br>Your Apple Watch keeps the day. What you said becomes to-dos and notes. <i>Coming soon.</i></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-wiki.png" width="100%" alt="Wiki"></a><br><b><a href="https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki-link">Wiki</a></b><br>Links, files and chats become topic pages. They are Markdown files on your Mac that Obsidian can open.</td>
-<td width="50%" valign="top"><a href="https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-computer.png" width="100%" alt="Your computer"></a><br><b><a href="https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer-link">Your computer</a></b><br>Ask from your phone. Your Mac runs the tests, edits the files and sends back the result.</td>
 </tr>
 <tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-computer.png" width="100%" alt="Your computer"></a><br><b><a href="https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer-link">Your computer</a></b><br>Ask from your phone. Your Mac runs the tests, edits the files and sends back the result.</td>
 <td width="50%" valign="top"><a href="https://heyatu.com/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-spaces.png" width="100%" alt="Spaces"></a><br><b><a href="https://heyatu.com/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces-link">Spaces</a></b><br>Describe a page, such as a family week or a run log. Atu makes it and keeps it up to date.</td>
-<td width="50%"></td>
 </tr>
 </table>
 
-<sub>iPhone screens with sample content. The iPhone, iPad and Watch apps are coming soon; the Mac app has the same tabs.</sub>
+<sub>Sample content. The iPhone app is coming soon.</sub>
+
+### On Mac
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/mac?utm_source=github&utm_medium=readme&utm_campaign=desk-chat"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/desk-chat.png" width="100%" alt="Chats"></a><br><b><a href="https://heyatu.com/mac?utm_source=github&utm_medium=readme&utm_campaign=desk-chat-link">Chats</a></b><br>Every chat with Atu, with the sessions it runs on this Mac.</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/todo?utm_source=github&utm_medium=readme&utm_campaign=desk-todo"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/desk-todo.png" width="100%" alt="Todo"></a><br><b><a href="https://heyatu.com/todo?utm_source=github&utm_medium=readme&utm_campaign=desk-todo-link">Todo</a></b><br>What waits on you, what Atu added and what is done today.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=desk-updates"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/desk-updates.png" width="100%" alt="Updates"></a><br><b><a href="https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=desk-updates-link">Updates</a></b><br>The morning brief and the cards from your scheduled tasks.</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=desk-wiki"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/desk-wiki.png" width="100%" alt="Wiki"></a><br><b><a href="https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=desk-wiki-link">Wiki</a></b><br>Your topic pages as a map of tags, sized by the number of pages.</td>
+</tr>
+</table>
+
+<sub>Sample content. Spaces is not in the Mac app yet.</sub>
+
+## Apple Watch: your whole day, kept
+
+<i>Coming soon.</i> Apple Watch records your day, also with the screen off. Tap to mark a moment. Your iPhone keeps the audio and turns it into words. Your Mac turns the words into to-dos, notes and answers.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=watch-day"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/watch-day.png" width="100%" alt="Days on iPhone: a daily recap and a title for each hour. The Watch records."></a><br>Days on iPhone: a daily recap and a title for each hour. The Watch records.</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=watch-hour"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/watch-hour.png" width="100%" alt="One hour: a summary, the key points and your original words."></a><br>One hour: a summary, the key points and your original words.</td>
+</tr>
+</table>
+
+| When | What Atu does |
+|---|---|
+| “What did the supplier say yesterday?” | Finds the hour and answers from what was said. The original audio is one tap away. |
+| At the end of the day | Writes a recap of the day in one line, and gives each hour a title. |
+| “I’ll reply to Lisa by Friday,” in a meeting | Adds a to-do with a draft reply, so the promise does not slip. |
+| An idea on your morning ride | Tap the Watch. Atu marks the moment and keeps the idea for you. |
+
+<a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=desk-days"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/desk-days.png" width="100%" alt="The same day on your Mac, where Atu acts on it."></a>
+
+<p align="center">The same day on your Mac, where Atu acts on it.</p>
+
+The audio stays on your iPhone. Your Mac reads only the words, end-to-end encrypted. [About Hey Atu for Apple Watch →](https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=watch-link)
 
 ## Works with your models
 
