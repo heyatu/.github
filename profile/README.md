@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Hey Atu: Keep your AI working while you live your day. Pi runs on your Mac; you reach it from anywhere.">
+  <img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/hero.gif" width="100%" alt="Hey Atu: Keep your AI working while you live your day. Pi runs on your Mac; you reach it from anywhere.">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   &nbsp;·&nbsp;
   <a href="https://heyatu.com">heyatu.com</a>
   &nbsp;·&nbsp;
-  <a href="./README.zh-CN.md">中文</a>
+  <a href="https://github.com/heyatu/.github/blob/main/profile/README.zh-CN.md">中文</a>
 </p>
 
 Hey Atu is your own AI, on your own computer. It runs
@@ -17,15 +17,15 @@ Hey Atu is your own AI, on your own computer. It runs
 your files, your tools and the model that you choose. You talk to it from the
 device that is in your hand, and it continues the work when you walk away.
 
-<img src="./assets/scene-continue.gif" width="100%" alt="One chat starts in the terminal, continues on iPhone and ends in the desktop app.">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/scene-continue.gif" width="100%" alt="One chat starts in the terminal, continues on iPhone and ends in the desktop app.">
 
-<img src="./assets/scene-files.gif" width="100%" alt="Sample: you ask Atu to tidy your Desktop. The files gather into a ball and go into six folders. Nothing is deleted.">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/scene-files.gif" width="100%" alt="Sample: you ask Atu to tidy your Desktop. The files gather into a ball and go into six folders. Nothing is deleted.">
 
-<img src="./assets/scene-chats.gif" width="100%" alt="Sample: the chats of a day go to Atu, which turns them into Todo, Updates and Wiki.">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/scene-chats.gif" width="100%" alt="Sample: the chats of a day go to Atu, which turns them into Todo, Updates and Wiki.">
 
 ## How it works
 
-<img src="./assets/how-it-works.svg" width="100%" alt="iPhone, iPad, the desktop app and the terminal connect through a relay to Pi on your own computer.">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/how-it-works.svg" width="100%" alt="iPhone, iPad, the desktop app and the terminal connect through a relay to Pi on your own computer.">
 
 - **Chats** — talk to Atu, by voice or text.
 - **Todo** — Atu follows up on what you said you would do.

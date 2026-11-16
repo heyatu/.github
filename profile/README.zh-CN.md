@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Hey Atu：你过你的日子，AI 一直在干活。Pi 在你的 Mac 上运行，你在哪里都能用。">
+  <img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/hero.gif" width="100%" alt="Hey Atu：你过你的日子，AI 一直在干活。Pi 在你的 Mac 上运行，你在哪里都能用。">
 </p>
 
 <p align="center">
@@ -7,22 +7,22 @@
   &nbsp;·&nbsp;
   <a href="#从终端安装">从终端安装</a>
   &nbsp;·&nbsp;
-  <a href="./README.md">English</a>
+  <a href="https://github.com/heyatu/.github/blob/main/profile/README.md">English</a>
 </p>
 
 Hey Atu 是跑在你自己电脑上的 AI。它在你的 Mac 或 Linux 上运行
 [Pi](https://github.com/earendil-works/pi)，用你的文件、你的工具和你选的模型。
 你用手边的设备和它说话，你走开了，它接着干。
 
-<img src="./assets/scene-continue.gif" width="100%" alt="同一个对话：早上在终端开始，中午在 iPhone 上补充，晚上在桌面 App 里继续。">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/scene-continue.gif" width="100%" alt="同一个对话：早上在终端开始，中午在 iPhone 上补充，晚上在桌面 App 里继续。">
 
-<img src="./assets/scene-files.gif" width="100%" alt="示例：让 Atu 整理桌面，文件聚成一个球，再分进 6 个文件夹，什么都不删。">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/scene-files.gif" width="100%" alt="示例：让 Atu 整理桌面，文件聚成一个球，再分进 6 个文件夹，什么都不删。">
 
-<img src="./assets/scene-chats.gif" width="100%" alt="示例：一天里的所有聊天交给 Atu，变成 Todo、Updates 和 Wiki。">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/scene-chats.gif" width="100%" alt="示例：一天里的所有聊天交给 Atu，变成 Todo、Updates 和 Wiki。">
 
 ## 工作方式
 
-<img src="./assets/how-it-works.svg" width="100%" alt="iPhone、iPad、桌面 App 和终端经 relay 连到你电脑上的 Pi。">
+<img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/how-it-works.svg" width="100%" alt="iPhone、iPad、桌面 App 和终端经 relay 连到你电脑上的 Pi。">
 
 - **Chats**：用语音或文字和 Atu 说话。
 - **Todo**：你说要做的事，Atu 帮你跟进。
