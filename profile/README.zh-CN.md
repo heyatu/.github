@@ -30,15 +30,24 @@ Hey Atu 是跑在你自己电脑上的 AI。它在你的 Mac 或 Linux 上运行
 
 <a href="https://heyatu.com/zh/security?utm_source=github&utm_medium=readme&utm_campaign=how-it-works"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/how-it-works.svg" width="100%" alt="iPhone、iPad、桌面 App 和终端经 relay 连到你电脑上的 Pi。"></a>
 
-| 界面 | 能做什么 |
-|:---:|---|
-| <a href="https://heyatu.com/zh/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-chat.png" width="180" alt="Chats"></a> | **[Chats](https://heyatu.com/zh/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat-link)**<br>用语音或文字和 Atu 说话。它记得你的习惯，同样的事说一次就够。 |
-| <a href="https://heyatu.com/zh/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-todo.png" width="180" alt="Todo"></a> | **[Todo](https://heyatu.com/zh/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo-link)**<br>在任何对话里说一句“周五提醒我”，就进了清单。事情快过期时 Atu 会提醒你。 |
-| <a href="https://heyatu.com/zh/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-updates.png" width="180" alt="Updates"></a> | **[Updates](https://heyatu.com/zh/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates-link)**<br>在你的 Mac 上定时运行：晨间简报、价格监控、每周摘要。有新情况才推一张卡片。 |
-| <a href="https://heyatu.com/zh/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-days.png" width="180" alt="Days"></a> | **[Days](https://heyatu.com/zh/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days-link)**<br>Apple Watch 记录你的一天，你说过的话变成待办和笔记。<i>即将推出。</i> |
-| <a href="https://heyatu.com/zh/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-wiki.png" width="180" alt="Wiki"></a> | **[Wiki](https://heyatu.com/zh/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki-link)**<br>链接、文件和聊天整理成主题页面。都是你 Mac 上的 Markdown 文件，可以用 Obsidian 打开。 |
-| <a href="https://heyatu.com/zh/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-computer.png" width="180" alt="你的电脑"></a> | **[你的电脑](https://heyatu.com/zh/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer-link)**<br>用手机提一句，Mac 跑测试、改文件，再把结果发回给你。 |
-| <a href="https://heyatu.com/zh/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-spaces.png" width="180" alt="Spaces"></a> | **[Spaces](https://heyatu.com/zh/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces-link)**<br>描述一个页面，比如家庭周计划或跑步记录。Atu 做出来，并自动更新。 |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/zh/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-chat.png" width="100%" alt="Chats"></a><br><b><a href="https://heyatu.com/zh/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat-link">Chats</a></b><br>用语音或文字和 Atu 说话。它记得你的习惯，同样的事说一次就够。</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/zh/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-todo.png" width="100%" alt="Todo"></a><br><b><a href="https://heyatu.com/zh/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo-link">Todo</a></b><br>在任何对话里说一句“周五提醒我”，就进了清单。事情快过期时 Atu 会提醒你。</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/zh/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-updates.png" width="100%" alt="Updates"></a><br><b><a href="https://heyatu.com/zh/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates-link">Updates</a></b><br>在你的 Mac 上定时运行：晨间简报、价格监控、每周摘要。有新情况才推一张卡片。</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/zh/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-days.png" width="100%" alt="Days"></a><br><b><a href="https://heyatu.com/zh/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days-link">Days</a></b><br>Apple Watch 记录你的一天，你说过的话变成待办和笔记。<i>即将推出。</i></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/zh/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-wiki.png" width="100%" alt="Wiki"></a><br><b><a href="https://heyatu.com/zh/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki-link">Wiki</a></b><br>链接、文件和聊天整理成主题页面。都是你 Mac 上的 Markdown 文件，可以用 Obsidian 打开。</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/zh/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-computer.png" width="100%" alt="你的电脑"></a><br><b><a href="https://heyatu.com/zh/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer-link">你的电脑</a></b><br>用手机提一句，Mac 跑测试、改文件，再把结果发回给你。</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/zh/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-spaces.png" width="100%" alt="Spaces"></a><br><b><a href="https://heyatu.com/zh/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces-link">Spaces</a></b><br>描述一个页面，比如家庭周计划或跑步记录。Atu 做出来，并自动更新。</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 <sub>iPhone 界面，内容为示例。iPhone、iPad 和 Watch App 即将推出；Mac App 有相同的标签页。</sub>
 
@@ -50,13 +59,14 @@ Hey Atu 基于 Pi，支持 **30 家模型提供商**。可以直接登录 ChatGP
 
 在 [Composio](https://composio.dev/content/best-ai-agent-harnesses) 的独立测试中，8 个 agent 框架用同一个模型（Kimi K3）完成同样的 25 个真实应用任务。Pi 的中位耗时最短，token 用量最少，工具调用次数最少。
 
-|  | **Pi**（Hey Atu） | Codex | OpenCode | Claude Code |
-|---|---:|---:|---:|---:|
-| 每个任务的中位耗时 | **156 秒** | 233 秒 | 271 秒 | 331 秒 |
-| 每个完成任务的成本 | **$0.57** | $0.66 | $0.72 | $1.96 |
-| 通过的任务（共 25 个） | **18** | 17 | 18 | 19 |
+| 框架 | 中位耗时 | 单任务成本 | 通过 |
+|---|---:|---:|---:|
+| **Pi (Hey Atu)** | **156 秒** | **$0.57** | 18 / 25 |
+| Codex | 233 秒 | $0.66 | 17 / 25 |
+| OpenCode | 271 秒 | $0.72 | 18 / 25 |
+| Claude Code | 331 秒 | $1.96 | 19 / 25 |
 
-<sub>Composio，2026 年 8 月。每个任务运行一次；成本按当月 Kimi K3 的标价计算。结果因模型和任务而异。</sub>
+<sub>Composio，2026 年 8 月。成本按每个完成的任务计。每个任务运行一次，按当月 Kimi K3 的标价计算。结果因模型和任务而异。</sub>
 
 ## 在哪里运行
 

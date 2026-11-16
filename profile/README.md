@@ -30,15 +30,24 @@ Hey Atu is your own AI, on your own computer. It runs [Pi](https://github.com/ea
 
 <a href="https://heyatu.com/security?utm_source=github&utm_medium=readme&utm_campaign=how-it-works"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/how-it-works.svg" width="100%" alt="iPhone, iPad, the desktop app and the terminal connect through a relay to Pi on your own computer."></a>
 
-| Screen | What it does |
-|:---:|---|
-| <a href="https://heyatu.com/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-chat.png" width="180" alt="Chats"></a> | **[Chats](https://heyatu.com/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat-link)**<br>Talk to Atu by voice or text. It remembers how you work, so you say things once. |
-| <a href="https://heyatu.com/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-todo.png" width="180" alt="Todo"></a> | **[Todo](https://heyatu.com/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo-link)**<br>Say “remind me on Friday” in any chat and it is on the list. Atu follows up before a task slips. |
-| <a href="https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-updates.png" width="180" alt="Updates"></a> | **[Updates](https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates-link)**<br>Scheduled tasks on your Mac: a morning brief, a price watch, a weekly digest. A card comes only when there is news. |
-| <a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-days.png" width="180" alt="Days"></a> | **[Days](https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days-link)**<br>Your Apple Watch keeps the day. What you said becomes to-dos and notes. <i>Coming soon.</i> |
-| <a href="https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-wiki.png" width="180" alt="Wiki"></a> | **[Wiki](https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki-link)**<br>Links, files and chats become topic pages. They are Markdown files on your Mac that Obsidian can open. |
-| <a href="https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-computer.png" width="180" alt="Your computer"></a> | **[Your computer](https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer-link)**<br>Ask from your phone. Your Mac runs the tests, edits the files and sends back the result. |
-| <a href="https://heyatu.com/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-spaces.png" width="180" alt="Spaces"></a> | **[Spaces](https://heyatu.com/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces-link)**<br>Describe a page, such as a family week or a run log. Atu makes it and keeps it up to date. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-chat.png" width="100%" alt="Chats"></a><br><b><a href="https://heyatu.com/iphone?utm_source=github&utm_medium=readme&utm_campaign=mode-chat-link">Chats</a></b><br>Talk to Atu by voice or text. It remembers how you work, so you say things once.</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-todo.png" width="100%" alt="Todo"></a><br><b><a href="https://heyatu.com/todo?utm_source=github&utm_medium=readme&utm_campaign=mode-todo-link">Todo</a></b><br>Say “remind me on Friday” in any chat and it is on the list. Atu follows up before a task slips.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-updates.png" width="100%" alt="Updates"></a><br><b><a href="https://heyatu.com/updates?utm_source=github&utm_medium=readme&utm_campaign=mode-updates-link">Updates</a></b><br>Scheduled tasks on your Mac: a morning brief, a price watch, a weekly digest. A card comes only when there is news.</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-days.png" width="100%" alt="Days"></a><br><b><a href="https://heyatu.com/watch?utm_source=github&utm_medium=readme&utm_campaign=mode-days-link">Days</a></b><br>Your Apple Watch keeps the day. What you said becomes to-dos and notes. <i>Coming soon.</i></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-wiki.png" width="100%" alt="Wiki"></a><br><b><a href="https://heyatu.com/wiki?utm_source=github&utm_medium=readme&utm_campaign=mode-wiki-link">Wiki</a></b><br>Links, files and chats become topic pages. They are Markdown files on your Mac that Obsidian can open.</td>
+<td width="50%" valign="top"><a href="https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-computer.png" width="100%" alt="Your computer"></a><br><b><a href="https://heyatu.com/remote?utm_source=github&utm_medium=readme&utm_campaign=mode-computer-link">Your computer</a></b><br>Ask from your phone. Your Mac runs the tests, edits the files and sends back the result.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://heyatu.com/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces"><img src="https://raw.githubusercontent.com/heyatu/.github/main/profile/assets/mode-spaces.png" width="100%" alt="Spaces"></a><br><b><a href="https://heyatu.com/?utm_source=github&utm_medium=readme&utm_campaign=mode-spaces-link">Spaces</a></b><br>Describe a page, such as a family week or a run log. Atu makes it and keeps it up to date.</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 <sub>iPhone screens with sample content. The iPhone, iPad and Watch apps are coming soon; the Mac app has the same tabs.</sub>
 
@@ -50,13 +59,14 @@ Hey Atu runs on Pi, so it works with **30 model providers**. Sign in with your C
 
 In an independent test, [Composio](https://composio.dev/content/best-ai-agent-harnesses) gave eight agent harnesses the same model (Kimi K3) and the same 25 real-app tasks. Pi had the fastest median time, used the fewest tokens and made the fewest tool calls.
 
-|  | **Pi** (Hey Atu) | Codex | OpenCode | Claude Code |
-|---|---:|---:|---:|---:|
-| Median time per task | **156 s** | 233 s | 271 s | 331 s |
-| Cost per finished task | **$0.57** | $0.66 | $0.72 | $1.96 |
-| Tasks passed (of 25) | **18** | 17 | 18 | 19 |
+| Agent | Median time | Cost per task | Passed |
+|---|---:|---:|---:|
+| **Pi (Hey Atu)** | **156 s** | **$0.57** | 18 / 25 |
+| Codex | 233 s | $0.66 | 17 / 25 |
+| OpenCode | 271 s | $0.72 | 18 / 25 |
+| Claude Code | 331 s | $1.96 | 19 / 25 |
 
-<sub>Composio, August 2026. One run per task; costs use the Kimi K3 list prices of that month. Results vary by model and task.</sub>
+<sub>Composio, August 2026. Cost is per finished task. One run per task; costs use the Kimi K3 list prices of that month. Results vary by model and task.</sub>
 
 ## Run it anywhere
 
